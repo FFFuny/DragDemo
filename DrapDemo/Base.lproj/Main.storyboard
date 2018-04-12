@@ -118,7 +118,7 @@
             </objects>
             <point key="canvasLocation" x="-86" y="-315"/>
         </scene>
-        <!--使用UITextView展示-->
+        <!--使用UITextView展示（可复制）-->
         <scene sceneID="G0o-Ft-aNu">
             <objects>
                 <viewController storyboardIdentifier="otherVC" id="0Q8-0v-1F6" customClass="OtherController" sceneMemberID="viewController">
@@ -178,7 +178,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="bqK-if-awh"/>
                     </view>
-                    <navigationItem key="navigationItem" title="使用UITextView展示" id="VHo-EP-g00">
+                    <navigationItem key="navigationItem" title="使用UITextView展示（可复制）" id="VHo-EP-g00">
                         <barButtonItem key="leftBarButtonItem" title="返回" id="jik-vS-YgY">
                             <connections>
                                 <action selector="backClick:" destination="0Q8-0v-1F6" id="cGA-rO-Hsb"/>
